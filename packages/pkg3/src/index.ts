@@ -3,3 +3,4 @@ import * as p2 from "@ryancavanaugh/pkg2";
 
 p1.fn();
 p2.fn4();
+console.log("hello world!!!!");
